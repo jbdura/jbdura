@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jbdura
 - 👀 web app dev and with a touch of web app security interest
-- 🌱 I’m currently learning python and fluter
-- 💞️ I’m looking to collaborate on python (django or flask) projects
+- 🌱 I’m currently learning ruby and react
+- 💞️ I’m looking to collaborate on ruby (sinatra, rails), react and Django projects
 - 📫 How to reach me @jbidura on twitter
 
 <!---
