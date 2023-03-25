@@ -7,21 +7,23 @@
       
 - 📽️ My projects
 
-      - https://github.com/jbdura/weather
+      - [First Weather App](https://github.com/jbdura/weather)
             Basic HTML, CSS and Javascript web app
       
-      - https://github.com/jbdura/food-map
-            A basic React web app that has list of foods and recipes that are available.
+      - [First weather app refactored in typescript](https://github.com/jbdura/weather2)
 
-      - https://github.com/jbdura/phase-3-project
+      - [Food App](https://github.com/jbdura/food-map)
+            A basic React web app that has list of foods and that are available.
+
+      - [School project](https://github.com/jbdura/phase-3-project)
             A React Sinatra Cocktail web app
 
 - Group projects 📽️📽️
 
-      - https://github.com/ndurivin/Light-Reader
+      - [LightReader](https://github.com/ndurivin/Light-Reader)
             My contribution was mostly in the back end using Rails.
 
-      - https://github.com/Group1-Local-Shop
+      - [LocalShop](https://github.com/Group1-Local-Shop)
             My contribution was on both back end and front end. I had more input in the front end to improve my client side development skills.
       
 <!---
