@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @jbdura
 - 👀 web app dev and with a touch of web app security interest
-- 🌱 I’m currently learning Ruby and JavaScript (Typescript) and Angular
-- 💞️ I’m looking to collaborate on ruby (Rails) and JavaScript (REACT) projects.
-- 📫 How to reach me @jbidura on twitter
+- 🌱 I’m currently learning Python and Typescript
+- 💞️ I’m looking to collaborate on JavaScript (REACT) projects.
+- 📫 How to reach me [twitter](twitter.com/jbidura) or [LinkedIn](https://ke.linkedin.com/in/johnson-bidura-2a8317107)
+
       
       
        📽️ My projects
