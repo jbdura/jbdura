@@ -19,7 +19,8 @@
 - [School project](https://github.com/jbdura/phase-3-project)
       A React Sinatra Cocktail web app
       
--[First Next project](https://next-proj-phi.vercel.app/) ( [GitHub](https://github.com/jbdura/next-proj) )
+- [First Next project](https://next-proj-phi.vercel.app/) 
+    ( [GitHub](https://github.com/jbdura/next-proj) )
 
       Group projects 📽️📽️
 
