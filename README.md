@@ -6,7 +6,7 @@
 
       
       
-       📽️ My projects
+### 📽️ My projects
 
 - [First Weather App](https://github.com/jbdura/weather)
       Basic HTML, CSS and Javascript web app
@@ -22,7 +22,7 @@
 - [First Next project](https://next-proj-phi.vercel.app/) 
 
 
-      Group projects 📽️📽️
+  ### Group projects 📽️📽️
 
 - [LightReader](https://github.com/ndurivin/Light-Reader)
       My contribution was mostly in the back end using Rails.
