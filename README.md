@@ -30,6 +30,9 @@
 - [LocalShop](https://github.com/Group1-Local-Shop)
       My contribution was on both back end and front end. I had more input in the front end to improve my client side development skills.
 
+### Languages & tools
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jbdura&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
   ### 🔥 My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jbdura&theme=dark&background=000000)](https://git.io/streak-stats)
