@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jbdura
 - 👀 API engineer
 - 🌱 Python and Typescript
-- 📫 How to reach me [twitter](twitter.com/jbidura) or [LinkedIn](https://ke.linkedin.com/in/johnson-bidura-2a8317107)
+- 📫 How to reach me [twitter](twitter.com/jbidura) or [LinkedIn](https://ke.linkedin.com/in/jbdura)
 
       
 ### Languages & tools
