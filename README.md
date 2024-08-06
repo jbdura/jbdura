@@ -5,31 +5,6 @@
 - 📫 How to reach me [twitter](twitter.com/jbidura) or [LinkedIn](https://ke.linkedin.com/in/johnson-bidura-2a8317107)
 
       
-      
-### 📽️ My projects
-
-- [First Weather App](https://github.com/jbdura/weather)
-      Basic HTML, CSS and Javascript web app
-
-- [First weather app refactored in typescript](https://github.com/jbdura/weather2)
-
-- [Food App](https://github.com/jbdura/food-map)
-      A basic React web app that has list of foods and that are available.
-
-- [School project](https://github.com/jbdura/phase-3-project)
-      A React Sinatra Cocktail web app
-      
-- [First Next project](https://next-proj-phi.vercel.app/) 
-
-
-  ### Group projects 📽️📽️
-
-- [LightReader](https://github.com/ndurivin/Light-Reader)
-      My contribution was mostly in the back end using Rails.
-
-- [LocalShop](https://github.com/Group1-Local-Shop)
-      My contribution was on both back end and front end. I had more input in the front end to improve my client side development skills.
-
 ### Languages & tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
