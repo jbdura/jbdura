@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jbdura
-- 👀 web app dev and with a touch of web app security interest
-- 🌱 I’m currently learning Python and Typescript
-- 💞️ I’m looking to collaborate on JavaScript (REACT, Angular, Vue) projects.
+- 👀 API engineer
+- 🌱 Python and Typescript
 - 📫 How to reach me [twitter](twitter.com/jbidura) or [LinkedIn](https://ke.linkedin.com/in/johnson-bidura-2a8317107)
 
       
